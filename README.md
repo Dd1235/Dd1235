@@ -14,6 +14,6 @@ Welcome to my GitHub! I'm a first-year Computer Science student at [IIIT Bangalo
 - 💬 Happy to chat about anything related to **Node.js**, **MongoDB**, **GraphQL**, or **Arduino**. If you're interested in these areas or have insights to share, let's connect!
 - 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/dedeepya-avancha-507363217/)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Beyond the world of code, I love exploring the mysteries of the cosmos and the stories of ancient civilizations. 🌌🏺
+- ⚡ Fun fact: Beyond the world of code, I love learning the history of science! 
 
 Excited to explore the intersection of software and hardware, and to make meaningful contributions to the open-source community! Let's make something awesome together. ✨
