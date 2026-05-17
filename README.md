@@ -6,7 +6,7 @@
 
 Comp-sci student
 
-I like ML/AI, Databases,Distributed Systems, Low level systems, Backend, Linear Algebra and Finance
+I like  Low level systems, ML/AI, Databases,Distributed Systems, Backend, Linear Algebra and Finance
 
 Overthinking what you should do? [go here](https://dd1235.github.io/Roight-Now/)
 
